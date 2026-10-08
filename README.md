@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### t01 is a programmatic layer that enables agents to convert any experience into a set of agnostic blocks they can use or lift and integrate elsewhere natively.
+### t01 is a self-improving programmatic layer that enables agents to convert any experience into a set of agnostic blocks they can use or lift and integrate elsewhere natively.
 
 **NOT runtime based - only source code based
 
