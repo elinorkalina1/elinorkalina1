@@ -3,9 +3,10 @@
 ### t01 is a programmatic layer that enables agents to convert any experience into a set of agnostic blocks they can use or lift and integrate elsewhere natively.
 
 **NOT runtime based - only source code based
-**NOT inferred - computed fro SOT
 
-### Framework, language and environment agnostic.
+**NOT inferred - computed from SOT
+
+### and most importantly, for becoming useful for agent work and tasks: framework, language and environment agnostic.
 
 **Stack:** three engines:
 1 - Capturing + harvesting from source
