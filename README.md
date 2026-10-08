@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**elinorkalina1/elinorkalina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### t01 is a programmatic layer that enables agents to convert any experience into a set of agnostic blocks they can use or lift and integrate elsewhere natively.
 
-Here are some ideas to get you started:
+**NOT runtime based - only source code based
+**NOT inferred - computed fro SOT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Framework, language and environment agnostic.
+
+**Stack:** three engines:
+1 - Capturing + harvesting from source
+2 - Normalizing all data
+3 - Generating agnostic slot-addressable blocks 
+
+🔒 **The t01 codebase is private.** 
+**To request access** email me at elinorkalina1@gmail.com
+
